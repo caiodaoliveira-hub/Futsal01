@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A História do Futsal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>História do Futsal</h1>
+            <nav>
+                <ul>
+                    <li><a href="#origem">A Origem</a></li>
+                    <li><a href="#criador">O Criador</a></li>
+                    <li><a href="#evolucao">Evolução</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="banner">
+        <div class="banner-text">
+            <h2>Do Uruguai para o Mundo</h2>
+            <p>Conheça a trajetória do futebol de salão, desde as quadras da ACM até as competições mundiais.</p>
+        </div>
+    </section>
+
+    <main class="container">
+        
+        <section id="origem" class="content-section">
+            <h2>Como Tudo Começou</h2>
+            <p>O futsal surgiu na década de 1930, em Montevidéu, no Uruguai. Logo após o país conquistar a primeira Copa do Mundo de futebol em 1930, o esporte virou uma febre nacional. Porém, a falta de campos livres fez com que os jovens começassem a improvisar partidas em quadras de basquete.</p>
+        </section>
+
+        <section id="criador" class="content-section card">
+            <h2>Juan Carlos Ceriani</h2>
+            <p>O professor da ACM (Associação Cristã de Moços), <strong>Juan Carlos Ceriani</strong>, é considerado o inventor do esporte. Ele transferiu o futebol para as quadras e, inicialmente, chamou a modalidade de <em>"Indoor Football"</em>.</p>
+            <blockquote>
+                Ceriani adaptou regras do basquete, handebol e polo aquático para criar a dinâmica do novo esporte.
+            </blockquote>
+        </section>
+
+        <section id="evolucao" class="content-section">
+            <h2>A Chegada ao Brasil e Evolução</h2>
+            <p>O esporte chegou ao Brasil ainda na década de 1930 e ganhou muita força. Foi aqui que ele se popularizou e ganhou as características rápidas e técnicas que conhecemos hoje. Com o tempo, a bola pesada foi regulamentada e a FIFA passou a organizar os mundiais da categoria.</p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Criado por [Seu Nome] para o GitHub Pages</p>
+    </footer>
+
+</body>
+</html>
